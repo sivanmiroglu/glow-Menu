@@ -1,4 +1,4 @@
-##Glow-Menu
+Glow-Menu
 
 Html Css menu örneği glow menu.
 
